@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color: #212529;
+}
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+	background-color: #884bdf;
+}
+
+#sec-primera {
+	
+	padding: 40px; 
+	
+}
+
+
+.icon-people {
+	
+	padding: 150px;
+}
+#sec-tres {
+	
+	padding: 100px;
+}
+
+#sec-tres h3{
+	
+	font-size: 15px;
+	font-weight:bold
+}
+
+
+#sec-cuatro {
+	
+	align-content: center;
+	padding: 100px;
+	
+}
+
+#sec-cuatro h1 {
+	
+	text-align: center;
+	
+}
+
+#sec-cuatro p {
+	
+	text-align: center;
+	
+}
+
+
+#sec-cuatro btn btn-default {
+	
+	text-align: center;
+	
+}
+.boton {
+	
+	align-content: center
+}
